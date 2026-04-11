@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Coral Springs, Florida with a population of over 134k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Coral Springs, Florida, US",
+  "export_job_id": "523f027f-4e57-4209-ba4a-e7fe0bf12840",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 180787,
+  "location_name": "Coral Springs",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-coral-springs-florida-us-sample-180787",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/180787/beamstation_180787_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.85,
+  "sample_records": 27,
+  "sample_sha256": "1fa02ef2aa2c7e0d28a5f9d97311ddd0e0e4de3c30ce41bb10a5baf118284a07",
+  "sample_size_bytes": 122436,
+  "total_records": 274,
+  "updated_at": "2026-04-07T10:46:44.603133+00:00"
+}
