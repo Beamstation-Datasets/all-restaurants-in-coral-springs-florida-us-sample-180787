@@ -9,9 +9,9 @@
 | Dataset ID | `180787` |
 | Location | Coral Springs |
 | Category | Restaurants |
-| Full dataset size | 274 records |
-| Free sample size | 27 records (9.85%) |
-| Last export | 2026-04-07T10:46:44.603133+00:00 |
+| Full dataset size | 270 records |
+| Free sample size | 27 records (10.0%) |
+| Last export | 2026-04-14T10:36:42.590794+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-coral-springs-florida-us-sample-180787/releases/download/sample-latest/beamstation_180787_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
