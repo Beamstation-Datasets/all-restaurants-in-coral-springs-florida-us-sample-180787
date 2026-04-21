@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dc0d0e4a-3650-4e6c-8485-adfe55d663f0",
+  "export_job_id": "b978c3dd-a2b2-4570-8e99-c444bf7e6735",
   "id_short": 180787,
-  "published_at": "2026-04-17T07:43:31Z",
+  "published_at": "2026-04-21T19:08:27Z",
   "repo_name": "all-restaurants-in-coral-springs-florida-us-sample-180787",
   "sample_asset_name": "beamstation_180787_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/180787/beamstation_180787_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "30e9fa3c0b2b83eed0a44e540cfc2edb1f3ec3b3efd942b4f895305df91072d4",
-  "sample_size_bytes": 120175,
-  "total_records": 270
+  "sample_records": 18,
+  "sample_sha256": "dcbb2019f2be470c733385f2e34bb66e44aa41148a4ca5405544a17c5124ce36",
+  "sample_size_bytes": 86516,
+  "total_records": 186
 }
