@@ -1,6 +1,6 @@
 # All Restaurants in Coral Springs, Florida, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `180787` |
 | Location | Coral Springs |
 | Category | Restaurants |
-| Full dataset size | 291 records |
-| Free sample size | 29 records (9.97%) |
-| Last export | 2026-04-28T11:24:49.594749+00:00 |
+| Full dataset size | 303 records |
+| Free sample size | 30 records (9.9%) |
+| Last export | 2026-05-05T14:48:07.878560+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-coral-springs-florida-us-sample-180787/releases/download/sample-latest/beamstation_180787_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
